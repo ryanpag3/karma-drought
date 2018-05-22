@@ -1,0 +1,23 @@
+{
+  "name": "karma-drought",
+  "version": "1.0.0",
+  "description": "A reddit bot for detecting karma-farming bots.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanpage42/karma-drought.git"
+  },
+  "author": "Ryan Page",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanpage42/karma-drought/issues"
+  },
+  "homepage": "https://github.com/ryanpage42/karma-drought#readme",
+  "dependencies": {
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}

@@ -2,7 +2,7 @@
   "name": "karma-drought",
   "version": "1.0.0",
   "description": "A reddit bot for detecting karma-farming bots.",
-  "main": "server.js",
+  "main": "karma-drought.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ryanpage42/karma-drought#readme",
   "dependencies": {
     "snoostorm": "0.0.5",
-    "snoowrap": "^1.15.2"
+    "snoowrap": "^1.15.2",
+    "twilio": "^3.17.0"
   }
 }
